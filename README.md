@@ -1,4 +1,7 @@
 
+This repository contains the implementation to reproduce the numerical experiments 
+of the **NEURIPS 2022** paper [On the Robustness of Graph Neural Diffusion to Topology Perturbations](https://arxiv.org/abs/2209.07754)
+
 ## Running the experiments
 The codes are written based on 
 - https://github.com/twitter-research/graph-neural-pde
@@ -26,3 +29,17 @@ Saved models are available in ./saved_models2.
 * torch-sparse==0.6.9
 * torch-spline-conv==1.2.1
 * torchdiffeq==0.2.1
+
+## Citation
+If you found our work useful in your research, please cite our paper at:
+```bibtex
+@INPROCEEDINGS{SonKanWan:C22,
+						author      = {Yang Song and Qiyu Kang and Sijie Wang and Kai Zhao and Wee Peng Tay},
+						title       = {On the Robustness of Graph Neural Diffusion to Topology Perturbations},
+						booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
+						month       = {Nov.},
+						year        = {2022},
+						address     = {New Orleans, USA},
+						}
+```
+(Also consider starring the project on GitHub.)
