@@ -34,12 +34,12 @@ Saved models are available in ./saved_models2.
 If you found our work useful in your research, please cite our paper at:
 ```bibtex
 @INPROCEEDINGS{SonKanWan:C22,
-						author      = {Yang Song and Qiyu Kang and Sijie Wang and Kai Zhao and Wee Peng Tay},
-						title       = {On the Robustness of Graph Neural Diffusion to Topology Perturbations},
-						booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
-						month       = {Nov.},
-						year        = {2022},
-						address     = {New Orleans, USA},
-						}
+		author      = {Yang Song and Qiyu Kang and Sijie Wang and Kai Zhao and Wee Peng Tay},
+		title       = {On the Robustness of Graph Neural Diffusion to Topology Perturbations},
+		booktitle   = {Advances in Neural Information Processing Systems (NeurIPS)},
+		month       = {Nov.},
+		year        = {2022},
+		address     = {New Orleans, USA},
+		}
 ```
 (Also consider starring the project on GitHub.)
